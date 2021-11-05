@@ -8,6 +8,7 @@
   ],
   "main": "src/index.js",
   "dependencies": {
+<<<<<<< HEAD
     "bootstrap": "^5.1.3",
     "history": "^5.1.0",
     "react": "16.12.0",
@@ -15,6 +16,10 @@
     "react-dom": "16.12.0",
     "react-router": "^6.0.0",
     "react-router-dom": "^5.2.0",
+=======
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+>>>>>>> c249c8b5f462dd1029902a06a5c31a0728e46dba
     "react-scripts": "3.0.1",
     "react-tradingview-widget": "1.3.2"
   },
@@ -33,4 +38,8 @@
     "not ie <= 11",
     "not op_mini all"
   ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> c249c8b5f462dd1029902a06a5c31a0728e46dba
