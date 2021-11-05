@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react'
 import TradingViewWidget, { Themes } from "react-tradingview-widget";
 
-export class MyTradingViewWidget extends PureComponent {
+export class AAPLTradingViewWidget extends PureComponent {
     render() {
         return (
             <TradingViewWidget
@@ -18,4 +18,4 @@ export class MyTradingViewWidget extends PureComponent {
     }
 }
 
-export default MyTradingViewWidget
+export default AAPLTradingViewWidget
